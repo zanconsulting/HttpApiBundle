@@ -13,8 +13,8 @@
     },
 
     "autoload": {
-        "psr-0" : {
-            "Zan\\HttpApiBundle" : "src"
+        "psr-4" : {
+            "Zan\\HttpApiBundle" : ""
         }
     }
 }
